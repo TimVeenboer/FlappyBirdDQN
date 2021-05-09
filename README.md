@@ -1,4 +1,4 @@
 # FlappyBirdDQN
 <p align="center">
-![Alt Text](https://github.com/TimVeenboer/FlappyBirdDQN/blob/master/DQNshowcase.gif)
+<img src="https://github.com/TimVeenboer/FlappyBirdDQN/blob/master/DQNshowcase.gif">
 </p>
