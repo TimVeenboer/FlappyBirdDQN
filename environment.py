@@ -38,10 +38,6 @@ class Background(Entity):
             self.image, (SCREEN_WIDTH, SCREEN_HEIGHT)
         )
 
-    ########### WEGhALEN
-    def draw(self):
-        """Draw the images after a FPS cycle"""
-        SCREEN.blit(self.image, (self.x, self.y), self.rect)
 
 class Pipe(Entity):
     """Class which handles the pipes of the game."""
